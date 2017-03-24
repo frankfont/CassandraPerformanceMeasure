@@ -1,0 +1,8 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Database performance measuring utility
+${licensePrefix}Copyright (c) 2016 Frank Font of ITPG
+<#if licenseLast??>
+${licenseLast}
+</#if>
